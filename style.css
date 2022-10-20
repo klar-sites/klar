@@ -207,8 +207,8 @@
     /* Global */
     @media (min-width: 768px) {
       .block {
-        padding-top: 150;px;
-        padding-bottom: 150;px;
+        padding-top: 150px;
+        padding-bottom: 150px;
       }
     }
     /* Buttons */
@@ -402,7 +402,7 @@
     border-color: #fed136;
   }
 
-#header-1495374846729 {
+#header-1666289310590 {
   color: white;
   background-image: url('../img/header-bg.jpg');
   background-repeat: no-repeat;
@@ -416,20 +416,20 @@
   text-align: center;
   position: relative;
 }
-#header-1495374846729 .intro-text {
+#header-1666289310590 .intro-text {
   padding-top: 100px;
   padding-bottom: 50px;
   position: relative;
   z-index: 1;
 }
-#header-1495374846729 .intro-text .intro-lead-in {
+#header-1666289310590 .intro-text .intro-lead-in {
   font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-style: italic;
   font-size: 22px;
   line-height: 22px;
   margin-bottom: 25px;
 }
-#header-1495374846729 .intro-text .intro-heading {
+#header-1666289310590 .intro-text .intro-heading {
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
@@ -437,7 +437,7 @@
   line-height: 50px;
   margin-bottom: 25px;
 }
-#header-1495374846729 .overlay {
+#header-1666289310590 .overlay {
   background-color: #000000;
   height: 100%;
   left: 0;
@@ -447,21 +447,21 @@
   width: 100%;
 }
 @media (min-width: 768px) {
-  #header-1495374846729 {
+  #header-1666289310590 {
     
   }
-  #header-1495374846729 .intro-text {
+  #header-1666289310590 .intro-text {
     padding-top: 300px;
     padding-bottom: 200px;
   }
-  #header-1495374846729 .intro-text .intro-lead-in {
+  #header-1666289310590 .intro-text .intro-lead-in {
     font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-style: italic;
     font-size: 40px;
     line-height: 40px;
     margin-bottom: 25px;
   }
-  #header-1495374846729 .intro-text .intro-heading {
+  #header-1666289310590 .intro-text .intro-heading {
     font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
     text-transform: uppercase;
     font-weight: 700;
@@ -471,37 +471,37 @@
   }
 }
 
-#header-1495374846729 {
+#header-1666289310590 {
   background-image: url(https://s3.amazonaws.com/klar/klar-sites-klar/42a407a0-3e63-11e7-bb1e-3b750a126d94-kW0g1p0yRuCZ1eYgJz9J);
   background-position: 0 0px;
   text-align:center;
 }
-#header-1495374846729 .intro-text .intro-lead-in {
+#header-1666289310590 .intro-text .intro-lead-in {
   color: #ffffff;
 }
-#header-1495374846729 .intro-text .intro-heading {
+#header-1666289310590 .intro-text .intro-heading {
   color: #ffffff;
 }
-#header-1495374846729 .btn-xl,
-#header-1495374846729 .btn-xl:hover,
-#header-1495374846729 .btn-xl:focus,
-#header-1495374846729 .btn-xl:active {
+#header-1666289310590 .btn-xl,
+#header-1666289310590 .btn-xl:hover,
+#header-1666289310590 .btn-xl:focus,
+#header-1666289310590 .btn-xl:active {
   background-color: #fed136;
   border-color: #fed136;
   color: #ffffff;
 }
-#header-1495374846729 .overlay {
+#header-1666289310590 .overlay {
   background-color: #000000;
   opacity: 0.4;
 }
 @media (min-width: 768px) {
-  #header-1495374846729 {
+  #header-1666289310590 {
     margin-top: 0px;
     
     height: 100vh;
     
   }
-  #header-1495374846729 .intro-text {
+  #header-1666289310590 .intro-text {
     margin-top: 0px;
     padding-top: 300px;
     padding-bottom: 200px;
@@ -514,16 +514,12 @@
 }
 
 /* Block */
-#services-1495374850017 {
-  background-color: ;
-  padding-top: px;
-  padding-bottom: px;
-}
 #services-1495374850017 .text-primary { color: ; }
 #services-1495374850017 .fa-inverse { color: ; }
 
 /* Base */
 #services-1495374850017 {
+  background-color: ;
   color: ;
 }
 #services-1495374850017 h1, #services-1495374850017 h2, #services-1495374850017 h3, #services-1495374850017 h4, #services-1495374850017 h5, #services-1495374850017 h6 {
@@ -556,6 +552,10 @@
 #services-1495374850017 ::selection {
   color: ;
   background: ;
+}
+#services-1495374850017 {
+  padding-top: px;
+  padding-bottom: px;
 }
 
   #portfolio-1495374866417 .portfolio-item {
@@ -1073,38 +1073,28 @@
 #contact .form-control:focus {
   border-color: #fed136;
 }
-
-/* Base */
-#contact h1, #contact h2, #contact h3, #contact h4, #contact h5, #contact h6 {
-  color: #ffffff;
-}
-#contact h3.section-subheading {
-  color: #ffffff;
-}
-#contact p {
-  color: ;
-}
-#contact a {
-  color: ;
-}
-#contact a:hover,
-#contact a:focus,
-#contact a:active {
-  color: ;
-}
-#contact .btn-primary,
-#contact .btn-primary:hover,
-#contact .btn-primary:focus,
-#contact .btn-primary:active {
+#contact .btn-xl,
+#contact .btn-xl:hover,
+#contact .btn-xl:focus,
+#contact .btn-xl:active {
   background-color: #fed136;
   border-color: #fed136;
+  color: #ffffff;
 }
-#contact .text-primary {
-  color: ;
+
+/* Base */
+#contact .section-heading {
+  color: #ffffff;
+}
+#contact .section-subheading {
+  color: #ffffff;
+}
+#contact .form-control:focus {
+    border-color: #fed136;
 }
 #contact ::selection {
-  color: ;
   background: ;
+  color: ;
 }
 
 footer {
