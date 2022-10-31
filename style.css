@@ -180,7 +180,7 @@
     /* Base */
     body {
       background-color: #ffffff;
-      color: #777777;
+      color: #333333;
       font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
       font-size: 14px;
     }
@@ -189,12 +189,12 @@
       font-family: "Montserrat","Helvetica Neue",Helvetica,Arial,sans-serif;
     }
     body h3.section-subheading {
-      color: #777777;
+      color: #333333;
       font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
       font-style: italic;
     }
     p {
-      color: #777777;
+      color: #333333;
     }
     a {
       color: ;
@@ -216,15 +216,15 @@
     .btn-primary:hover,
     .btn-primary:focus,
     .btn-primary:active {
-      background-color: #fed136;
-      border-color: #fed136;
+      background-color: #e02e3d;
+      border-color: #e02e3d;
     }
     .text-primary {
-      color: #fed136;
+      color: #e02e3d;
     }
     ::selection {
       color: #ffffff;
-      background: #fed136;
+      background: #e02e3d;
     }
   
   .navbar-custom {
@@ -337,8 +337,8 @@
     }
     /* Margin top next block */
     .navbar-custom + *,
-    [data-id="navigation-1495374844337"] + * {
-      margin-top: px;
+    [data-id="navigation-1667247100765"] + * {
+      margin-top: 0px;
     }
   } 
   .navbar-custom.affix {
@@ -364,17 +364,17 @@
     color: ;
   }
   .navbar-custom .navbar-brand:focus {
-    color: #fff;
+    color: #ffffff;
   }
   /* Navigation */
   .navbar-custom .nav li a {
     color: #fff;
   }
   .navbar-custom .nav li a:hover {
-    color: #fed136;
+    color: #e02e3d;
   }
   .navbar-custom .nav li a:focus {
-    color: #fed136;
+    color: #e02e3d;
   }
   .navbar-custom .nav li a {
     background-color: transparent;
@@ -384,25 +384,25 @@
   }
   .navbar-custom .navbar-nav > .active > a,
   .navbar-custom .navbar-nav > .active > a:hover {
-    background-color: #fed136;
+    background-color: #e02e3d;
   }
   .navbar-custom .navbar-nav > .active > a:focus {
-    background-color: #fed136;
+    background-color: #e02e3d;
   }
   .navbar-custom .navbar-toggle {
-    background-color: #fed136;
-    border-color: #fed136;
+    background-color: #e02e3d;
+    border-color: #e02e3d;
   }
   .navbar-custom .navbar-toggle:hover {
-    background-color: #fed136;
-    border-color: #fed136;
+    background-color: #e02e3d;
+    border-color: #e02e3d;
   }
   .navbar-custom .navbar-toggle:focus {
-    background-color: #fed136;
-    border-color: #fed136;
+    background-color: #e02e3d;
+    border-color: #e02e3d;
   }
 
-#header-1666289310590 {
+#header-1667247026143 {
   color: white;
   background-image: url('../img/header-bg.jpg');
   background-repeat: no-repeat;
@@ -416,20 +416,20 @@
   text-align: center;
   position: relative;
 }
-#header-1666289310590 .intro-text {
+#header-1667247026143 .intro-text {
   padding-top: 100px;
   padding-bottom: 50px;
   position: relative;
   z-index: 1;
 }
-#header-1666289310590 .intro-text .intro-lead-in {
+#header-1667247026143 .intro-text .intro-lead-in {
   font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-style: italic;
   font-size: 22px;
   line-height: 22px;
   margin-bottom: 25px;
 }
-#header-1666289310590 .intro-text .intro-heading {
+#header-1667247026143 .intro-text .intro-heading {
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
@@ -437,7 +437,7 @@
   line-height: 50px;
   margin-bottom: 25px;
 }
-#header-1666289310590 .overlay {
+#header-1667247026143 .overlay {
   background-color: #000000;
   height: 100%;
   left: 0;
@@ -447,21 +447,21 @@
   width: 100%;
 }
 @media (min-width: 768px) {
-  #header-1666289310590 {
+  #header-1667247026143 {
     
   }
-  #header-1666289310590 .intro-text {
+  #header-1667247026143 .intro-text {
     padding-top: 300px;
     padding-bottom: 200px;
   }
-  #header-1666289310590 .intro-text .intro-lead-in {
+  #header-1667247026143 .intro-text .intro-lead-in {
     font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-style: italic;
     font-size: 40px;
     line-height: 40px;
     margin-bottom: 25px;
   }
-  #header-1666289310590 .intro-text .intro-heading {
+  #header-1667247026143 .intro-text .intro-heading {
     font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
     text-transform: uppercase;
     font-weight: 700;
@@ -471,37 +471,35 @@
   }
 }
 
-#header-1666289310590 {
+#header-1667247026143 {
   background-image: url(https://s3.amazonaws.com/klar/klar-sites-klar/42a407a0-3e63-11e7-bb1e-3b750a126d94-kW0g1p0yRuCZ1eYgJz9J);
   background-position: 0 0px;
   text-align:center;
 }
-#header-1666289310590 .intro-text .intro-lead-in {
+#header-1667247026143 .intro-text .intro-lead-in {
   color: #ffffff;
 }
-#header-1666289310590 .intro-text .intro-heading {
+#header-1667247026143 .intro-text .intro-heading {
   color: #ffffff;
 }
-#header-1666289310590 .btn-xl,
-#header-1666289310590 .btn-xl:hover,
-#header-1666289310590 .btn-xl:focus,
-#header-1666289310590 .btn-xl:active {
-  background-color: #fed136;
-  border-color: #fed136;
+#header-1667247026143 .btn-xl,
+#header-1667247026143 .btn-xl:hover,
+#header-1667247026143 .btn-xl:focus,
+#header-1667247026143 .btn-xl:active {
+  background-color: #e02e3d;
+  border-color: #e02e3d;
   color: #ffffff;
 }
-#header-1666289310590 .overlay {
+#header-1667247026143 .overlay {
   background-color: #000000;
   opacity: 0.4;
 }
 @media (min-width: 768px) {
-  #header-1666289310590 {
+  #header-1667247026143 {
     margin-top: 0px;
     
-    height: 100vh;
-    
   }
-  #header-1666289310590 .intro-text {
+  #header-1667247026143 .intro-text {
     margin-top: 0px;
     padding-top: 300px;
     padding-bottom: 200px;
@@ -517,7 +515,7 @@
 #services-1495374850017 .text-primary { color: ; }
 #services-1495374850017 .fa-inverse { color: ; }
 
-/* Base */
+/* Colors */
 #services-1495374850017 {
   background-color: ;
   color: ;
@@ -553,6 +551,7 @@
   color: ;
   background: ;
 }
+/* Colors */
 #services-1495374850017 {
   padding-top: px;
   padding-bottom: px;
@@ -940,7 +939,7 @@
   padding-bottom: 150px;
 }
 #about-1495374870321 .timeline > li .timeline-image {
-  background-color: #fed136;
+  background-color: #e02e3d;
   border-color: #f1f1f1;
 }
 
@@ -1071,14 +1070,14 @@
   
 }
 #contact .form-control:focus {
-  border-color: #fed136;
+  border-color: #e02e3d;
 }
 #contact .btn-xl,
 #contact .btn-xl:hover,
 #contact .btn-xl:focus,
 #contact .btn-xl:active {
-  background-color: #fed136;
-  border-color: #fed136;
+  background-color: #e02e3d;
+  border-color: #e02e3d;
   color: #ffffff;
 }
 
@@ -1090,7 +1089,7 @@
   color: #ffffff;
 }
 #contact .form-control:focus {
-    border-color: #fed136;
+    border-color: #e02e3d;
 }
 #contact ::selection {
   background: ;
