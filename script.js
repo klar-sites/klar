@@ -35,6 +35,19 @@
     });
   })(jQuery);
 
+  function klarScript() {
+    // Add 'klar-modal-open' CSS class, when modal is opened
+    $('.modal').on('show.bs.modal', function (event) {
+      var modal = this;
+      modal.classList.add('klar-modal-open');
+    });
+    $('.modal').on('hide.bs.modal', function (event) {
+      var modal = this;
+      modal.classList.remove('klar-modal-open');
+    });
+  }
+  klarScript();
+
 var contact = {};
 contact.init = function () {
   // Contact Form Scripts
