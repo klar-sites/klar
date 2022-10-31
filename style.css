@@ -30,8 +30,7 @@
     }
     a:hover,
     a:focus,
-    a:active,
-    a.active {
+    a:active {
       color: #fec503;
     }
     h1,
@@ -197,12 +196,12 @@
       color: #333333;
     }
     a {
-      color: ;
+      color: #e02e3d;
     }
-    a:hover,
-    a:focus,
-    a:active {
-      color: ;
+    body a:hover,
+    body a:focus,
+    body a:active {
+      color: #e02e3d;
     }
     /* Global */
     @media (min-width: 768px) {
