@@ -324,7 +324,7 @@
   
     /* Block */
     .navbar-custom {
-      background-color: #fff;
+      background-color: #222;
       border-bottom: solid 0px #222;
       ;
     }
@@ -336,12 +336,12 @@
       }
       /* Margin top next block */
       .navbar-custom + *,
-      [data-id="navigation-1669053487843"] + * {
+      [data-id="0"] + * {
         margin-top: 0px;
       }
     } 
     .navbar-custom.affix {
-      background-color: #fff;
+      background-color: #222;
     }
     .navbar-custom.affix .overlay {
       opacity: 1;
@@ -401,7 +401,7 @@
       border-color: #e02e3d;
     }
   
-#header-1669053487845 {
+#1 {
   color: white;
   background-image: url('../img/header-bg.jpg');
   background-repeat: no-repeat;
@@ -415,20 +415,20 @@
   text-align: center;
   position: relative;
 }
-#header-1669053487845 .intro-text {
+#1 .intro-text {
   padding-top: 100px;
   padding-bottom: 50px;
   position: relative;
   z-index: 1;
 }
-#header-1669053487845 .intro-text .intro-lead-in {
+#1 .intro-text .intro-lead-in {
   font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-style: italic;
   font-size: 22px;
   line-height: 22px;
   margin-bottom: 25px;
 }
-#header-1669053487845 .intro-text .intro-heading {
+#1 .intro-text .intro-heading {
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
@@ -436,7 +436,7 @@
   line-height: 50px;
   margin-bottom: 25px;
 }
-#header-1669053487845 .overlay {
+#1 .overlay {
   background-color: #000000;
   height: 100%;
   left: 0;
@@ -446,21 +446,21 @@
   width: 100%;
 }
 @media (min-width: 768px) {
-  #header-1669053487845 {
+  #1 {
     
   }
-  #header-1669053487845 .intro-text {
+  #1 .intro-text {
     padding-top: 300px;
     padding-bottom: 200px;
   }
-  #header-1669053487845 .intro-text .intro-lead-in {
+  #1 .intro-text .intro-lead-in {
     font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-style: italic;
     font-size: 40px;
     line-height: 40px;
     margin-bottom: 25px;
   }
-  #header-1669053487845 .intro-text .intro-heading {
+  #1 .intro-text .intro-heading {
     font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
     text-transform: uppercase;
     font-weight: 700;
@@ -470,37 +470,37 @@
   }
 }
 
-#header-1669053487845 {
+#1 {
   background-image: url(https://raw.githubusercontent.com/klar-templates/agency/master/img/header-bg.jpg);
   background-position: 0 0px;
   text-align:center;
 }
-#header-1669053487845 .intro-text .intro-lead-in {
+#1 .intro-text .intro-lead-in {
   color: #ffffff;
 }
-#header-1669053487845 .intro-text .intro-heading {
+#1 .intro-text .intro-heading {
   color: #ffffff;
 }
-#header-1669053487845 .btn-xl,
-#header-1669053487845 .btn-xl:hover,
-#header-1669053487845 .btn-xl:focus,
-#header-1669053487845 .btn-xl:active {
+#1 .btn-xl,
+#1 .btn-xl:hover,
+#1 .btn-xl:focus,
+#1 .btn-xl:active {
   background-color: #e02e3d;
   border-color: #e02e3d;
   color: #ffffff;
 }
-#header-1669053487845 .overlay {
+#1 .overlay {
   background-color: #000000;
   opacity: 0.4;
 }
 @media (min-width: 768px) {
-  #header-1669053487845 {
+  #1 {
     margin-top: 0px;
     
     height: 100vh;
     
   }
-  #header-1669053487845 .intro-text {
+  #1 .intro-text {
     margin-top: 0px;
     padding-top: 300px;
     padding-bottom: 200px;
@@ -513,62 +513,62 @@
 }
 
 /* Block */
-#services-1669053520380 .text-primary { color: ; }
-#services-1669053520380 .fa-inverse { color: ; }
+#2 .text-primary { color: ; }
+#2 .fa-inverse { color: ; }
 
 /* Colors */
-#services-1669053520380 {
+#2 {
   background-color: ;
   color: ;
 }
-#services-1669053520380 h1, #services-1669053520380 h2, #services-1669053520380 h3, #services-1669053520380 h4, #services-1669053520380 h5, #services-1669053520380 h6 {
+#2 h1, #2 h2, #2 h3, #2 h4, #2 h5, #2 h6 {
   color: ;
 }
-#services-1669053520380 h3.section-subheading {
+#2 h3.section-subheading {
   color: ;
 }
-#services-1669053520380 p {
+#2 p {
   color: ;
 }
-#services-1669053520380 a {
+#2 a {
   color: ;
 }
-#services-1669053520380 a:hover,
-#services-1669053520380 a:focus,
-#services-1669053520380 a:active {
+#2 a:hover,
+#2 a:focus,
+#2 a:active {
   color: ;
 }
-#services-1669053520380 .btn-primary,
-#services-1669053520380 .btn-primary:hover,
-#services-1669053520380 .btn-primary:focus,
-#services-1669053520380 .btn-primary:active {
+#2 .btn-primary,
+#2 .btn-primary:hover,
+#2 .btn-primary:focus,
+#2 .btn-primary:active {
   background-color: ;
   border-color: ;
 }
-#services-1669053520380 .text-primary {
+#2 .text-primary {
   color: ;
 }
-#services-1669053520380 ::selection {
+#2 ::selection {
   color: ;
   background: ;
 }
 /* Colors */
-#services-1669053520380 {
+#2 {
   padding-top: px;
   padding-bottom: px;
 }
 
-  #portfolio-1669053562559 .portfolio-item {
+  #3 .portfolio-item {
     margin: 0 0 15px;
     right: 0;
   }
-  #portfolio-1669053562559 .portfolio-item .portfolio-link {
+  #3 .portfolio-item .portfolio-link {
     display: block;
     position: relative;
     max-width: 400px;
     margin: 0 auto;
   }
-  #portfolio-1669053562559 .portfolio-item .portfolio-link .portfolio-hover {
+  #3 .portfolio-item .portfolio-link .portfolio-hover {
     background: rgba(254, 209, 54, 0.9);
     position: absolute;
     width: 100%;
@@ -578,10 +578,10 @@
     -webkit-transition: all ease 0.5s;
     -moz-transition: all ease 0.5s;
   }
-  #portfolio-1669053562559 .portfolio-item .portfolio-link .portfolio-hover:hover {
+  #3 .portfolio-item .portfolio-link .portfolio-hover:hover {
     opacity: 1;
   }
-  #portfolio-1669053562559 .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content {
+  #3 .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content {
     position: absolute;
     width: 100%;
     height: 20px;
@@ -591,32 +591,32 @@
     margin-top: -12px;
     color: white;
   }
-  #portfolio-1669053562559 .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content i {
+  #3 .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content i {
     margin-top: -12px;
   }
-  #portfolio-1669053562559 .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content h3,
-  #portfolio-1669053562559 .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content h4 {
+  #3 .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content h3,
+  #3 .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content h4 {
     margin: 0;
   }
-  #portfolio-1669053562559 .portfolio-item .portfolio-caption {
+  #3 .portfolio-item .portfolio-caption {
     max-width: 400px;
     margin: 0 auto;
     background-color: white;
     text-align: center;
     padding: 25px;
   }
-  #portfolio-1669053562559 .portfolio-item .portfolio-caption h4 {
+  #3 .portfolio-item .portfolio-caption h4 {
     text-transform: none;
     margin: 0;
   }
-  #portfolio-1669053562559 .portfolio-item .portfolio-caption p {
+  #3 .portfolio-item .portfolio-caption p {
     font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-style: italic;
     font-size: 16px;
     margin: 0;
   }
   @media (min-width: 767px) {
-    #portfolio-1669053562559 .portfolio-item {
+    #3 .portfolio-item {
       margin: 0 0 30px;
     }
   }
@@ -700,67 +700,67 @@
   }
 
 /* Block */
-#portfolio-1669053562559 {
+#3 {
   background-color: ;
   color: ;
   padding-top: px;
   padding-bottom: px;
 }
-#portfolio-1669053562559 .portfolio-item .portfolio-link .portfolio-hover {
+#3 .portfolio-item .portfolio-link .portfolio-hover {
   background-color: #e02e3d;
 }
-#portfolio-1669053562559 .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content i {
+#3 .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content i {
   color: #fff;
 }
-#portfolio-1669053562559 .portfolio-item .portfolio-caption {
+#3 .portfolio-item .portfolio-caption {
   background-color: transparent;
 }
-#portfolio-1669053562559 .portfolio-item .portfolio-caption h4 {
+#3 .portfolio-item .portfolio-caption h4 {
   color: #333333;
 }
-#portfolio-1669053562559 .portfolio-item .portfolio-caption p {
+#3 .portfolio-item .portfolio-caption p {
   color: #333333;
 }
-.portfolio-1669053562559-modal .modal-content {
+.3-modal .modal-content {
   background-color: #ffffff;
 }
-.portfolio-1669053562559-modal .close-modal .lr,
-.portfolio-1669053562559-modal .close-modal .lr .rl {
+.3-modal .close-modal .lr,
+.3-modal .close-modal .lr .rl {
   background-color: #333333;
 }
 
 /* Base */
-#portfolio-1669053562559 {
+#3 {
   color: ;
 }
-#portfolio-1669053562559 h1, #portfolio-1669053562559 h2, #portfolio-1669053562559 h3, #portfolio-1669053562559 h4, #portfolio-1669053562559 h5, #portfolio-1669053562559 h6 {
+#3 h1, #3 h2, #3 h3, #3 h4, #3 h5, #3 h6 {
   color: ;
 }
-#portfolio-1669053562559 h3.section-subheading {
+#3 h3.section-subheading {
   color: ;
 }
-#portfolio-1669053562559 p {
+#3 p {
   color: ;
 }
-#portfolio-1669053562559 a {
+#3 a {
   color: ;
 }
-#portfolio-1669053562559 a:hover,
-#portfolio-1669053562559 a:focus,
-#portfolio-1669053562559 a:active {
+#3 a:hover,
+#3 a:focus,
+#3 a:active {
   color: ;
 }
-#portfolio-1669053562559 .btn-primary,
-#portfolio-1669053562559 .btn-primary:hover,
-#portfolio-1669053562559 .btn-primary:focus,
-#portfolio-1669053562559 .btn-primary:active {
+#3 .btn-primary,
+#3 .btn-primary:hover,
+#3 .btn-primary:focus,
+#3 .btn-primary:active {
   background-color: ;
   border-color: ;
 }
-#portfolio-1669053562559 .text-primary {
+#3 .text-primary {
   color: ;
 }
-#portfolio-1669053562559 ::selection {
+#3 ::selection {
   color: ;
   background: ;
 }
@@ -934,12 +934,12 @@
   }
 }
 
-#about-1669053566741 {
+#4 {
   background-color: #ffffff;
   padding-top: 150px;
   padding-bottom: 150px;
 }
-#about-1669053566741 .timeline > li .timeline-image {
+#4 .timeline > li .timeline-image {
   background-color: #e02e3d;
   border-color: #f1f1f1;
 }
@@ -985,14 +985,14 @@
 }
 
 /* Team */
-#team-1669053571028 {
+#5 {
   background-color: ;
   padding-top: px;
   padding-bottom: px;
 }
-#team-1669053571028 ul.social-buttons li a:hover,
-#team-1669053571028 ul.social-buttons li a:focus,
-#team-1669053571028 ul.social-buttons li a:active {
+#5 ul.social-buttons li a:hover,
+#5 ul.social-buttons li a:focus,
+#5 ul.social-buttons li a:active {
   background-color: #e02e3d;
 }
 
@@ -1001,7 +1001,7 @@
 }
 
 /* Block */
-#clients-1669053578011 {
+#6 {
   background-color: ;
 }
 
